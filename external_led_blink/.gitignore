@@ -1,0 +1,21 @@
+# Build folders
+Debug/
+Release/
+Binaries/
+
+# IDE local settings
+.settings/
+*.launch
+
+# Build output
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.mk
+makefile
+
+# OS files
+.DS_Store
+Thumbs.db
