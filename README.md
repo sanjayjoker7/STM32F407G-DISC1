@@ -113,11 +113,7 @@ This repository helps develop understanding of:
 
 ---
 
-## 📈 Goal
 
-The long-term goal of this repository is to build industry-level embedded systems expertise using STM32 microcontrollers.
-
-This repository will continuously evolve with more advanced firmware implementations and structured documentation.
 
 ---
 
